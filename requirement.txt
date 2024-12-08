@@ -1,0 +1,8 @@
+pyspellchecker
+nltk
+Pygments
+Markdown
+tkinterweb
+textblob
+utils
+language_tool_python
